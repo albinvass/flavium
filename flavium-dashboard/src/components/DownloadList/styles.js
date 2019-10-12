@@ -4,11 +4,7 @@ export const ListStyle = styled.div`
     background-image: linear-gradient(to bottom right, #3f4a4a, #47392f);
     min-height: 1000px;
 `;
-export const LargeText = styled.div`
-    text-align: left;
-    padding: 20px;
-    font-size: 22px;
-`;
+
 export const ItemStyle = styled.li`
     box-sizing:border-box;
     list-style: none;
